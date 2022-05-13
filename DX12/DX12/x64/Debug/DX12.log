@@ -1,0 +1,14 @@
+﻿  DirectX12.cpp
+C:\Users\sempg\OneDrive\デスクトップ\DX12\DX12\DirectX12.cpp(219,77): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+  IndexBuffer.cpp
+  PipelineState.cpp
+  RootSignature.cpp
+C:\Users\sempg\OneDrive\デスクトップ\DX12\DX12\RootSignature.cpp(33,109): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+C:\Users\sempg\OneDrive\デスクトップ\DX12\DX12\RootSignature.cpp(41,56): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+  Shader.cpp
+  Sprite.cpp
+  VertexBuffer.cpp
+C:\Users\sempg\OneDrive\デスクトップ\DX12\DX12\VertexBuffer.cpp(13,21): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+  main.cpp
+  コードを生成中...
+  DX12.vcxproj -> C:\Users\sempg\OneDrive\デスクトップ\DX12\x64\Debug\DX12.exe
